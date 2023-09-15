@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yessin007&label=Profile%20views&color=0e75b6&style=flat" alt="yessin007" /> </p>
 <h1 align="center">Hi 👋, I'm Yessin Khlif</h1>
 <h3 align="center">a passionate and collaborative software engineer student learning blockchain technology, DevOps practices.</h3>
+
 
 - 🔭 I’m currently working on **DevOps Project**
 
@@ -45,6 +46,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yessin007&" alt="yessin007" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yessin007&label=Profile%20views&color=0e75b6&style=flat" alt="yessin007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yessin007" alt="yessin007" /></a> </p>
