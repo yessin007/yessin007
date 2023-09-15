@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **DevOps Project**
 
-- 🌱 I’m currently learning **MicroServices a**
+- 🌱 I’m currently learning **MicroServices **
 
 - 🤝 I’m looking for an internship **in DevOps or blockchain technology**
 
