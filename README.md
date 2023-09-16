@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yessin007&label=Profile%20views&color=0e75b6&style=flat" alt="yessin007" /> </p>
 <h1 align="center">Hi 👋, I'm Yessin Khlif</h1>
-<h3 align="center">a passionate and collaborative software engineer student learning blockchain technology, DevOps practices.</h3>
+<h3 align="center">A passionate and collaborative software engineer student learning blockchain technology, DevOps practices.</h3>
 
 
-- 🔭 I’m currently working on **DevOps Project**
+- 🔭 I’m currently working on **DevOps Project.**
 
-- 🌱 I’m currently learning **MicroServices **
+- 🌱 I’m currently learning **MicroServices. **
 
-- 🤝 I’m looking for an internship **in DevOps or blockchain technology**
+- 🤝 I’m looking for an internship **in DevOps or blockchain technology.**
 
 - 📫 How to reach me **khlifyessin@gmail.com**
 
